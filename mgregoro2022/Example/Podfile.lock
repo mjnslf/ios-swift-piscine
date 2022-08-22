@@ -1,0 +1,16 @@
+PODS:
+  - mgregoro2022 (0.1.0)
+
+DEPENDENCIES:
+  - mgregoro2022 (from `../`)
+
+EXTERNAL SOURCES:
+  mgregoro2022:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mgregoro2022: a1c34219caf1ca5d36ffb166f29f7f5c2f8c7429
+
+PODFILE CHECKSUM: 31eeb4a34a96f725ce3dc34e3818e3f98a529bb1
+
+COCOAPODS: 1.11.3

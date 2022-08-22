@@ -1,0 +1,27 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'mgregoro2022' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for mgregoro2022
+  pod 'ForecastIO'
+
+end
+
+target 'Pods-mgregoro2022_Example' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Pods-mgregoro2022_Example
+
+end
+
+target 'Pods-mgregoro2022_Tests' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Pods-mgregoro2022_Tests
+
+end
